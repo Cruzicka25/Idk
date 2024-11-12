@@ -1,0 +1,94 @@
+body{
+    margin:0px;
+    padding:0px;
+    width:100%;
+    height:100%;
+    background-color:#F2EAF8;
+    
+}
+
+header{
+    font-size:75px;
+    text-align: center;
+    text-decoration: none;
+    color:#8053ce;
+    text-shadow:2px 2px 2px #b77ada, 0px 0px 2000px lightpink;
+    padding:5px;
+    font-family: "New Rocker";
+    
+}
+
+ul{
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+
+ul li{
+    display:inline;
+    width:50%;
+    margin-right:5vw;
+    
+    
+
+}
+
+ul li a{
+    text-decoration: none;
+    color:#946DD9;
+    text-shadow:2px 2px 2px #C38AE5;
+    font-size:40px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:"Bokor";
+    transition:.6s;
+    
+    
+}
+
+nav{
+    background-color: #A5BFEC;
+    box-shadow:0px 0px 5px 3px rgba(41, 0, 41, 0.717);
+    
+    
+}
+
+
+ul li a:hover{
+    
+    font-size:55px;
+    color:#DDE3F4;
+    text-shadow:2px 2px 2px #C38AE5;
+    font-family: "New Rocker";
+    transition:.3s;
+    
+}
+
+
+
+.glaze{
+    margin-right:5vw;
+    margin-left:5vw;
+    font-size:20px;
+    word-spacing: 2px;
+    line-height: 40px;
+    text-align: center;
+}
+
+main{
+overflow-x: scroll;
+width:62vw;
+left:19vw;
+right:19vw;
+position:relative;
+overflow-y:hidden;
+padding:0px;
+
+
+}
+
+.blady{
+    width:62vw;
+    height:auto;
+}
