@@ -91,4 +91,31 @@ padding:0px;
 .blady{
     width:62vw;
     height:auto;
+    position:relative;
+}
+
+
+.heart{
+position:absolute;
+right:0px;
+top:0px;
+object-fit:contain;
+height:400px;
+width:400px;
+opacity: 0;
+transition:.2s;
+
+    
+}
+
+.heart:hover{
+    opacity:.8;
+}
+
+.container{
+overflow-x: scroll;
+width:62vw;
+position:relative;
+overflow-y:hidden;
+
 }
