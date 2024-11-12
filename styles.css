@@ -97,11 +97,10 @@ padding:0px;
 
 .heart{
 position:absolute;
-right:0px;
+left:0px;
 top:0px;
 object-fit:contain;
-height:400px;
-width:400px;
+width:62vw;
 opacity: 0;
 transition:.2s;
 
