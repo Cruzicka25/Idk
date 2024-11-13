@@ -3,8 +3,8 @@ body{
     padding:0px;
     position:fixed;
     overflow:hidden;
-    height:100vh;
-    width:100vw;
+    height:100%;
+    width:100%;
 }
 
 .albumimage1{
@@ -55,3 +55,32 @@ body{
     width:100%;
     height:100%;
 }
+
+.fooltxt{
+    position:fixed;
+    left:20vw;
+    top:5vh;;
+}
+
+.redltxt{
+    position:fixed;
+    right:20vw;
+    top:5vh;
+}
+
+.icedtxt{
+    position:fixed;
+    left:20vw;
+    bottom:5vh;
+
+}
+
+.glueetxt{
+    right:20vw;
+    position:fixed;
+    bottom:5vh;
+   
+    
+    
+}
+
