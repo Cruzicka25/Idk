@@ -1,0 +1,57 @@
+body{
+    margin:0px;
+    padding:0px;
+    position:fixed;
+    overflow:hidden;
+    height:100vh;
+    width:100vw;
+}
+
+.albumimage1{
+    width:15vw;
+    height:26vh;
+    position:fixed;
+    left:calc(45vw - 10vw);
+    top:52vh;
+}
+
+.albumimage2{
+    width:15vw;
+    height:26vh;
+    position:absolute;
+    left:calc(45vw + 10vw);
+    top:52vh;
+}
+
+.albumimage3{
+    width:15vw;
+    height:26vh;
+    position:absolute;
+    left:calc(45vw + 10vw);
+    top:calc(50vh - 26vh - 2vw);
+}
+
+.albumimage4{
+    width:15vw;
+    height:26vh;
+    position:absolute;
+    left:calc(45vw - 10vw);
+    top:calc(50vh - 26vh - 2vw);
+    
+
+}
+
+.albumimage4 span{
+    height:8vh;
+    width:10vw;
+    position:fixed;
+    left:50vw;
+    
+   
+
+}
+
+.container{
+    width:100%;
+    height:100%;
+}
