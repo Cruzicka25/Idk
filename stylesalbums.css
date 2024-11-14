@@ -181,6 +181,8 @@ body{
 .chkimg:hover{
     width:3.75vw;
     height:7.5vh;
+    position:relative;
+    bottom:0vh;
    
     
 }
@@ -200,6 +202,8 @@ label h1{
     width:2.5vw;
     height:5vh;
     transition:.1s;
+    position:relative;
+    bottom:0vh;
 }
 
 .ximg:hover{
@@ -221,6 +225,5 @@ span{
    
     
 }
-hi
 
 
