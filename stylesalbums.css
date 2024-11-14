@@ -143,8 +143,14 @@ body{
         width: 20vw;
         height: 20vh;
         padding: 16px;
-        border: 16px solid rgb(181, 210, 221);
-        background-color: white;
+        border: 16px solid rgb(70, 64, 64);
+        background:url(https://t3.ftcdn.net/jpg/03/64/57/42/360_F_364574278_sJ0Q14UtsBF5JKQv7xAvYZFM9Y8zpsUY.jpg);
+
+
+
+        
+        
+        
         z-index:1002;
         font-size:2.5em;
         line-height: 20vh;  
@@ -192,6 +198,8 @@ label h1{
     height:100%;
     text-align: center;
     font-family: "Grenze Gotisch";
+    left:2.5vw;
+    position:relative;
 
     
 
@@ -219,6 +227,9 @@ span{
     box-shadow: 0px 0px 2px 2px black,inset 0px 0px 10px 2px rgba(0, 0, 0, 0.722);
     padding-left:5px;
     padding-right:5px;
+    text-shadow: 0px 0px 2px white;
+
+    
     
    
     
