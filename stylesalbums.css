@@ -5,7 +5,7 @@ body{
     overflow:hidden;
     height:100%;
     width:100%;
-    background:url(https://i.ibb.co/Wns2xq7/streaky.png);
+    background-color: rgb(255, 150, 150);
     background-repeat: no-repeat;
     background-size:cover;
     
@@ -143,18 +143,13 @@ body{
         width: 20vw;
         height: 20vh;
         padding: 16px;
-        border: 16px solid rgb(70, 64, 64);
+        border: 16px solid rgb(50, 5, 5);
         background:url(https://t3.ftcdn.net/jpg/03/64/57/42/360_F_364574278_sJ0Q14UtsBF5JKQv7xAvYZFM9Y8zpsUY.jpg);
-
-
-
-        
-        
-        
         z-index:1002;
         font-size:2.5em;
         line-height: 20vh;  
         text-align:center;    
+        box-shadow:0px 0px 2px 2px black, inset 0px 0px 2px 2px black;
         
         
         
