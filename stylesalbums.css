@@ -5,9 +5,9 @@ body{
     overflow:hidden;
     height:100%;
     width:100%;
-    background-color: rgb(255, 150, 150);
+    background-color: rgb(213, 233, 255); 
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size:cover; 
     
 }
 
@@ -72,7 +72,6 @@ body{
     border-radius: 10px;
     font-family:"Grenze Gotisch";
     font-size:1.5625em;
-    background-color: rgba(128, 128, 128, 0.27);
 }
 
 .redltxt{
@@ -84,7 +83,6 @@ body{
     border-radius: 10px;
     font-family:"Grenze Gotisch";
     font-size:1.5625em;
-    background-color: rgba(128, 128, 128, 0.27);
 }
 
 .icedtxt{
@@ -96,7 +94,6 @@ body{
     border-radius: 10px;
     font-family:"Grenze Gotisch";
     font-size:1.5625em;
-    background-color: rgba(128, 128, 128, 0.27);
 
 }
 
@@ -109,7 +106,6 @@ body{
     border-radius: 10px;
     font-family:"Grenze Gotisch";
     font-size:1.5625em;
-    background-color: rgba(128, 128, 128, 0.27);
     
    
     
@@ -143,14 +139,19 @@ body{
         width: 20vw;
         height: 20vh;
         padding: 16px;
-        border: 16px solid rgb(50, 5, 5);
-        background:url(https://t3.ftcdn.net/jpg/03/64/57/42/360_F_364574278_sJ0Q14UtsBF5JKQv7xAvYZFM9Y8zpsUY.jpg);
+        border: 16px solid rgb(5, 6, 50);
+        background:url(https://i.pinimg.com/736x/95/90/0a/95900a08c986bd7fe59c01f267be9509.jpg);
+        background-size:200px;
         z-index:1002;
         font-size:2.5em;
         line-height: 20vh;  
         text-align:center;    
         box-shadow:0px 0px 2px 2px black, inset 0px 0px 2px 2px black;
-        
+        text-shadow: 0px 0px 3px white;
+        font-family: "Grenze Gotisch";
+
+
+
         
         
     }
@@ -216,13 +217,13 @@ label h1{
 }
 
 span{
-    background:url(https://www.art-prints-on-demand.com/kunst/julia_ramiro/pintura_04_lo.jpg);
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIFf9rwhQqBjYzbnRDTTO1aoLeHdY12cqkPXUJqZSOgaUCnIg3FnfgAfasmO0sdcDSJQ&usqp=CAU);
     background-size: contain;
     border-radius: 15px;
     box-shadow: 0px 0px 2px 2px black,inset 0px 0px 10px 2px rgba(0, 0, 0, 0.722);
     padding-left:5px;
     padding-right:5px;
-    text-shadow: 0px 0px 2px white;
+    text-shadow: 0px 0px 4px white;
 
     
     
@@ -231,5 +232,3 @@ span{
    
     
 }
-
-
